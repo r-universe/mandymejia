@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ciftiTools"]
+	path = ciftiTools
+	url = https://github.com/mandymejia/ciftitools
+	shallow = true
+	registered = true
