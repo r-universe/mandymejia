@@ -8,3 +8,8 @@
 	url = https://github.com/mandymejia/ciftitools
 	shallow = true
 	registered = true
+[submodule "fMRIscrub"]
+	path = fMRIscrub
+	url = https://github.com/mandymejia/fmriscrub
+	shallow = true
+	registered = true
