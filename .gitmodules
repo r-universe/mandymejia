@@ -13,3 +13,8 @@
 	url = https://github.com/mandymejia/fmriscrub
 	shallow = true
 	registered = true
+[submodule "fMRItools"]
+	path = fMRItools
+	url = https://github.com/mandymejia/fmritools
+	shallow = true
+	registered = true

@@ -6,5 +6,9 @@
   {
     "package": "fMRIscrub",
     "oncran": true
+  },
+  {
+    "package": "fMRItools",
+    "oncran": true
   }
 ]
