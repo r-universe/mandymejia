@@ -18,3 +18,8 @@
 	url = https://github.com/mandymejia/fmritools
 	shallow = true
 	registered = true
+[submodule "templateICAr"]
+	path = templateICAr
+	url = https://github.com/mandymejia/templateicar
+	shallow = true
+	registered = true
