@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fMRItools"]
-	path = fMRItools
-	url = https://github.com/mandymejia/fmritools
-	shallow = true
-	registered = true
 [submodule "ciftiTools"]
 	path = ciftiTools
 	url = https://github.com/mandymejia/ciftitools
@@ -16,6 +11,11 @@
 [submodule "fMRIscrub"]
 	path = fMRIscrub
 	url = https://github.com/mandymejia/fmriscrub
+	shallow = true
+	registered = true
+[submodule "fMRItools"]
+	path = fMRItools
+	url = https://github.com/mandymejia/fmritools
 	shallow = true
 	registered = true
 [submodule "templateICAr"]
