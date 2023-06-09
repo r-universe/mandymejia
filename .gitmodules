@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesfMRI"]
+	path = BayesfMRI
+	url = https://github.com/mandymejia/bayesfmri
+	shallow = true
+	registered = true
 [submodule "ciftiTools"]
 	path = ciftiTools
 	url = https://github.com/mandymejia/ciftitools
