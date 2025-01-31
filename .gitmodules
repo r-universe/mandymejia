@@ -14,6 +14,9 @@
 [submodule "fMRItools"]
 	path = fMRItools
 	url = https://github.com/mandymejia/fmritools
+[submodule "hrf"]
+	path = hrf
+	url = https://github.com/mandymejia/hrf
 [submodule "templateICAr"]
 	path = templateICAr
 	url = https://github.com/mandymejia/templateicar
