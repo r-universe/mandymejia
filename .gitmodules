@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BayesBrainMap"]
+	path = BayesBrainMap
+	url = https://github.com/mandymejia/bayesbrainmap
 [submodule "BayesfMRI"]
 	path = BayesfMRI
 	url = https://github.com/mandymejia/bayesfmri
