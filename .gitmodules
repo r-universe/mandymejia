@@ -20,6 +20,9 @@
 [submodule "hrf"]
 	path = hrf
 	url = https://github.com/mandymejia/hrf
+[submodule "rrobot"]
+	path = rrobot
+	url = https://github.com/mandymejia/rrobot
 [submodule "templateICAr"]
 	path = templateICAr
 	url = https://github.com/mandymejia/templateicar
